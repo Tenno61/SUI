@@ -221,7 +221,7 @@
     <texture>intro\intro_back</texture>
   </blackscreen>
 
-	<hud_show_time  x="0" y="250" width="600" height="100" complex_mode="1"> -- Добавленая строка
+	<hud_show_time  x="0" y="250" width="600" height="100" complex_mode="1"> -- Add a new line
  	<text font="arial_14"  r="51" g="255" b="51" a="255" align="l"/>
 	</hud_show_time>
 
